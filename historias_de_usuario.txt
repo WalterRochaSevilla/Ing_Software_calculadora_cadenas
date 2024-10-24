@@ -1,0 +1,11 @@
+Ingresar Comando
+Mostrar Resultado
+
+
+
+como esudiante de primaria
+quiero poder realizar el calculo de una operacion
+para facilitarme el realizar el calculo manualmente
+criteria confirmation
+- cuando ingrese una cadena con la operación y presione el botón calcular, debería mostrarse el botón en pantalla
+- cuando no se ingresa nada en la operación se muestra 0 como resultado
